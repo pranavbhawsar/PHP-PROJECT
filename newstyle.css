@@ -1,0 +1,88 @@
+.slider4{
+	height: 300px;
+	width: 100%;
+	background-size: cover !important;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.main{
+	width: 100%;
+	height: 250px;
+	background-color: #003a6a;
+}
+.header{
+	height: 250px;
+}
+.logo{
+	padding-top: 50px;
+	padding-left: 50px;
+	float: left;
+}
+a:hover{
+	color: red;
+}
+a{
+	text-decoration: none;
+	color: white;
+	font-size: 25px;
+	font-style: italic;
+}
+.contact{
+	padding-left: 50px;
+	padding-top: 94px;
+	float: left;
+	font-size: 20px;
+	color: white;
+}
+.content{
+	text-align: center;
+	color: #003a6a;
+	padding-bottom:  20px;
+	padding-top: 20px;
+	background-color: lavender;
+}
+.content a{
+	margin-top: 20px;
+	color: red;
+}
+.footer
+{
+ background-color : #003a6a;
+ margin : auto;
+ width : 100%; 
+} 
+.contact_us
+{
+ height: 180px;
+ text-align: center;
+ color : white;
+ font-family : Arial, Helvetica, sans-serif;
+ font-size : 14px;
+ padding : 10px 10px 10px 10px;
+}
+.fee
+{   
+	padding-left : 555px;
+	color: white; 
+	border : white solid 2px;
+}
+.details
+{padding-left: 100px;}
+.reg
+{padding-left: 100px;
+padding-right: 0px;}
+.red
+{color: red;
+text-align: center;}
+.error
+{
+}
+.error{
+color:red;
+padding-left:10px;
+font-style: arial;
+font-size: 13px;
+font-weight: bold;
+}
